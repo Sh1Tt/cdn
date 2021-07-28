@@ -16,25 +16,25 @@ newmtl AS12_Leaf4
 Ns 50.781250
 illum 2
 Kd 0.800000 0.800000 0.800000
-map_Kd http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12lef4.tif
-map_d http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12lef4.tif
+map_Kd http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12lef4.png
+map_d http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12lef4.png
 
 newmtl AS12_Leaf3
 Ns 50.781250
 illum 2
 Kd 0.800000 0.800000 0.800000
-map_Kd http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12lef3.tif
-map_d http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12lef3.tif
+map_Kd http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12lef3.png
+map_d http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12lef3.png
 
 newmtl AS12_Bark1
 Ns 50.781250
 illum 2
 Kd 0.800000 0.800000 0.800000
-map_Kd http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12brk1.tif
-bump http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12brk1.tif
+map_Kd http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12brk1.png
+bump http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12brk1.png
 
 newmtl AS12_Branch1
 Ns 50.781250
 illum 2
 Kd 0.800000 0.800000 0.800000
-map_Kd http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12brn1.tif
+map_Kd http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12brn1.png
