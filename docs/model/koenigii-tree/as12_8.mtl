@@ -14,6 +14,7 @@ Kd 0.800000 0.800000 0.800000
 
 newmtl AS12_Leaf4
 Ns 50.781250
+Ni 1.000000
 illum 2
 Kd 0.800000 0.800000 0.800000
 map_Kd http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12lef4.png
@@ -21,6 +22,7 @@ map_d http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12lef4.png
 
 newmtl AS12_Leaf3
 Ns 50.781250
+Ni 10.000000
 illum 2
 Kd 0.800000 0.800000 0.800000
 map_Kd http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12lef3.png
