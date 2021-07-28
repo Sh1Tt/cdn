@@ -37,4 +37,4 @@ newmtl AS12_Branch1
 Ns 50.781250
 illum 2
 Kd 0.800000 0.800000 0.800000
-map_Kd ./as12brn1.tif
+map_Kd http://cdn.mauricestolk.hns.to/model/koenigii-tree/as12brn1.tif
